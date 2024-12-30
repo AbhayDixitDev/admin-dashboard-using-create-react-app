@@ -1,0 +1,1136 @@
+{
+  "users": [
+    {
+      "id": "7a19",
+      "username": "Abhay Dixit",
+      "email": "abhaydixit@gmail.com",
+      "city": "MU",
+      "state": "MH",
+      "country": "IN",
+      "password": "1234"
+    },
+    {
+      "id": "2e37",
+      "username": "Shivam Dixit",
+      "email": "Shivamdixit@gmail.com",
+      "city": "CN",
+      "state": "TN",
+      "country": "IN",
+      "password": "12345"
+    },
+    {
+      "id": "ac8a",
+      "username": "Abhay Dixit",
+      "email": "dixitshivam534@gmail.com",
+      "city": "KN",
+      "state": "MH",
+      "country": "IN",
+      "password": "123456"
+    },
+    {
+      "id": "a5bb",
+      "username": "Tanu Rajpoot",
+      "email": "tanu@gmail.com",
+      "city": "BH",
+      "state": "MP",
+      "country": "IN",
+      "password": "1234"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States",
+      "id": "fbf0"
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "id": "dcf7"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "id": "afa5"
+    },
+    {
+      "code": "CA",
+      "name": "Canada",
+      "id": "23ba"
+    },
+    {
+      "code": "AU",
+      "name": "Australia",
+      "id": "cff1"
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "id": "a265"
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "id": "1f6c"
+    },
+    {
+      "code": "JP",
+      "name": "Japan",
+      "id": "125c"
+    },
+    {
+      "code": "CN",
+      "name": "China",
+      "id": "e963"
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "id": "13c3"
+    },
+    {
+      "code": "IT",
+      "name": "Italy",
+      "id": "b868"
+    },
+    {
+      "code": "ES",
+      "name": "Spain",
+      "id": "c313"
+    },
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "id": "24eb"
+    },
+    {
+      "code": "KR",
+      "name": "South Korea",
+      "id": "0294"
+    },
+    {
+      "code": "RU",
+      "name": "Russia",
+      "id": "a540"
+    },
+    {
+      "code": "ZA",
+      "name": "South Africa",
+      "id": "0232"
+    },
+    {
+      "code": "SG",
+      "name": "Singapore",
+      "id": "63d3"
+    },
+    {
+      "code": "NZ",
+      "name": "New Zealand",
+      "id": "3d5b"
+    },
+    {
+      "code": "SE",
+      "name": "Sweden",
+      "id": "0e5e"
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland",
+      "id": "a4cf"
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands",
+      "id": "028b"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium",
+      "id": "d94f"
+    },
+    {
+      "code": "PL",
+      "name": "Poland",
+      "id": "fd54"
+    },
+    {
+      "code": "NO",
+      "name": "Norway",
+      "id": "a3cb"
+    }
+  ],
+  "states": {
+    "US": [
+      {
+        "code": "AL",
+        "name": "Alabama"
+      },
+      {
+        "code": "AK",
+        "name": "Alaska"
+      },
+      {
+        "code": "AZ",
+        "name": "Arizona"
+      },
+      {
+        "code": "AR",
+        "name": "Arkansas"
+      },
+      {
+        "code": "CA",
+        "name": "California"
+      },
+      {
+        "code": "CO",
+        "name": "Colorado"
+      },
+      {
+        "code": "CT",
+        "name": "Connecticut"
+      },
+      {
+        "code": "DE",
+        "name": "Delaware"
+      },
+      {
+        "code": "FL",
+        "name": "Florida"
+      },
+      {
+        "code": "GA",
+        "name": "Georgia"
+      },
+      {
+        "code": "HI",
+        "name": "Hawaii"
+      },
+      {
+        "code": "ID",
+        "name": "Idaho"
+      },
+      {
+        "code": "IL",
+        "name": "Illinois"
+      },
+      {
+        "code": "IN",
+        "name": "Indiana"
+      },
+      {
+        "code": "IA",
+        "name": "Iowa"
+      },
+      {
+        "code": "KS",
+        "name": "Kansas"
+      },
+      {
+        "code": "KY",
+        "name": "Kentucky"
+      },
+      {
+        "code": "LA",
+        "name": "Louisiana"
+      },
+      {
+        "code": "ME",
+        "name": "Maine"
+      },
+      {
+        "code": "MD",
+        "name": "Maryland"
+      },
+      {
+        "code": "MA",
+        "name": "Massachusetts"
+      },
+      {
+        "code": "MI",
+        "name": "Michigan"
+      },
+      {
+        "code": "MN",
+        "name": "Minnesota"
+      },
+      {
+        "code": "MS",
+        "name": "Mississippi"
+      },
+      {
+        "code": "MO",
+        "name": "Missouri"
+      },
+      {
+        "code": "MT",
+        "name": "Montana"
+      },
+      {
+        "code": "NE",
+        "name": "Nebraska"
+      },
+      {
+        "code": "NV",
+        "name": "Nevada"
+      },
+      {
+        "code": "NH",
+        "name": "New Hampshire"
+      },
+      {
+        "code": "NJ",
+        "name": "New Jersey"
+      },
+      {
+        "code": "NM",
+        "name": "New Mexico"
+      },
+      {
+        "code": "NY",
+        "name": "New York"
+      },
+      {
+        "code": "NC",
+        "name": "North Carolina"
+      },
+      {
+        "code": "ND",
+        "name": "North Dakota"
+      },
+      {
+        "code": "OH",
+        "name": "Ohio"
+      },
+      {
+        "code": "OK",
+        "name": "Oklahoma"
+      },
+      {
+        "code": "OR",
+        "name": "Oregon"
+      },
+      {
+        "code": "PA",
+        "name": "Pennsylvania"
+      },
+      {
+        "code": "RI",
+        "name": "Rhode Island"
+      },
+      {
+        "code": "SC",
+        "name": "South Carolina"
+      },
+      {
+        "code": "SD",
+        "name": "South Dakota"
+      },
+      {
+        "code": "TN",
+        "name": "Tennessee"
+      },
+      {
+        "code": "TX",
+        "name": "Texas"
+      },
+      {
+        "code": "UT",
+        "name": "Utah"
+      },
+      {
+        "code": "VT",
+        "name": "Vermont"
+      },
+      {
+        "code": "VA",
+        "name": "Virginia"
+      },
+      {
+        "code": "WA",
+        "name": "Washington"
+      },
+      {
+        "code": "WV",
+        "name": "West Virginia"
+      },
+      {
+        "code": "WI",
+        "name": "Wisconsin"
+      },
+      {
+        "code": "WY",
+        "name": "Wyoming"
+      }
+    ],
+    "IN": [
+      {
+        "code": "AP",
+        "name": "Andhra Pradesh"
+      },
+      {
+        "code": "AR",
+        "name": "Arunachal Pradesh"
+      },
+      {
+        "code": "AS",
+        "name": "Assam"
+      },
+      {
+        "code": "BR",
+        "name": "Bihar"
+      },
+      {
+        "code": "CG",
+        "name": "Chhattisgarh"
+      },
+      {
+        "code": "GA",
+        "name": "Goa"
+      },
+      {
+        "code": "GJ",
+        "name": "Gujarat"
+      },
+      {
+        "code": "HR",
+        "name": "Haryana"
+      },
+      {
+        "code": "HP",
+        "name": "Himachal Pradesh"
+      },
+      {
+        "code": "JH",
+        "name": "Jharkhand"
+      },
+      {
+        "code": "KA",
+        "name": "Karnataka"
+      },
+      {
+        "code": "KL",
+        "name": "Kerala"
+      },
+      {
+        "code": "MP",
+        "name": "Madhya Pradesh"
+      },
+      {
+        "code": "MH",
+        "name": "Maharashtra"
+      },
+      {
+        "code": "MN",
+        "name": "Manipur"
+      },
+      {
+        "code": "ML",
+        "name": "Meghalaya"
+      },
+      {
+        "code": "MZ",
+        "name": "Mizoram"
+      },
+      {
+        "code": "NL",
+        "name": "Nagaland"
+      },
+      {
+        "code": "OR",
+        "name": "Odisha"
+      },
+      {
+        "code": "PB",
+        "name": "Punjab"
+      },
+      {
+        "code": "RJ",
+        "name": "Rajasthan"
+      },
+      {
+        "code": "SK",
+        "name": "Sikkim"
+      },
+      {
+        "code": "TN",
+        "name": "Tamil Nadu"
+      },
+      {
+        "code": "TG",
+        "name": "Telangana"
+      },
+      {
+        "code": "TR",
+        "name": "Tripura"
+      },
+      {
+        "code": "UP",
+        "name": "Uttar Pradesh"
+      },
+      {
+        "code": "UK",
+        "name": "Uttarakhand"
+      },
+      {
+        "code": "WB",
+        "name": "West Bengal"
+      }
+    ],
+    "GB": [
+      {
+        "code": "ENG",
+        "name": "England"
+      },
+      {
+        "code": "SCT",
+        "name": "Scotland"
+      },
+      {
+        "code": "WLS",
+        "name": "Wales"
+      },
+      {
+        "code": "NIR",
+        "name": "Northern Ireland"
+      }
+    ],
+    "CA": [
+      {
+        "code": "ON",
+        "name": "Ontario"
+      },
+      {
+        "code": "QC",
+        "name": "Quebec"
+      },
+      {
+        "code": "BC",
+        "name": "British Columbia"
+      },
+      {
+        "code": "AB",
+        "name": "Alberta"
+      },
+      {
+        "code": "MB",
+        "name": "Manitoba"
+      },
+      {
+        "code": "SK",
+        "name": "Saskatchewan"
+      },
+      {
+        "code": "NS",
+        "name": "Nova Scotia"
+      },
+      {
+        "code": "NB",
+        "name": "New Brunswick"
+      },
+      {
+        "code": "NL",
+        "name": "Newfoundland and Labrador"
+      },
+      {
+        "code": "PE",
+        "name": "Prince Edward Island"
+      }
+    ],
+    "NL": [
+      {
+        "code": "NH",
+        "name": "North Holland"
+      },
+      {
+        "code": "ZH",
+        "name": "South Holland"
+      },
+      {
+        "code": "UT",
+        "name": "Utrecht"
+      },
+      {
+        "code": "GE",
+        "name": "Gelderland"
+      },
+      {
+        "code": "NB",
+        "name": "North Brabant"
+      }
+    ],
+    "BE": [
+      {
+        "code": "FL",
+        "name": "Flanders"
+      },
+      {
+        "code": "WL",
+        "name": "Wallonia"
+      },
+      {
+        "code": "BX",
+        "name": "Brussels"
+      }
+    ],
+    "PL": [
+      {
+        "code": "MZ",
+        "name": "Masovian"
+      },
+      {
+        "code": "LS",
+        "name": "Lesser Poland"
+      },
+      {
+        "code": "WP",
+        "name": "Greater Poland"
+      }
+    ],
+    "NO": [
+      {
+        "code": "OS",
+        "name": "Oslo"
+      },
+      {
+        "code": "AK",
+        "name": "Akershus"
+      },
+      {
+        "code": "HO",
+        "name": "Hordaland"
+      }
+    ]
+  },
+  "cities": {
+    "AP": [
+      {
+        "code": "VI",
+        "name": "Visakhapatnam"
+      },
+      {
+        "code": "VIJ",
+        "name": "Vijayawada"
+      },
+      {
+        "code": "GUN",
+        "name": "Guntur"
+      },
+      {
+        "code": "NEL",
+        "name": "Nellore"
+      },
+      {
+        "code": "KUR",
+        "name": "Kurnool"
+      },
+      {
+        "code": "TPT",
+        "name": "Tirupati"
+      },
+      {
+        "code": "RAJ",
+        "name": "Rajahmundry"
+      }
+    ],
+    "AR": [
+      {
+        "code": "IT",
+        "name": "Itanagar"
+      },
+      {
+        "code": "NA",
+        "name": "Naharlagun"
+      }
+    ],
+    "AS": [
+      {
+        "code": "GU",
+        "name": "Guwahati"
+      },
+      {
+        "code": "DI",
+        "name": "Dibrugarh"
+      },
+      {
+        "code": "SI",
+        "name": "Silchar"
+      },
+      {
+        "code": "JO",
+        "name": "Jorhat"
+      },
+      {
+        "code": "TE",
+        "name": "Tezpur"
+      }
+    ],
+    "BR": [
+      {
+        "code": "PA",
+        "name": "Patna"
+      },
+      {
+        "code": "GA",
+        "name": "Gaya"
+      },
+      {
+        "code": "BH",
+        "name": "Bhagalpur"
+      },
+      {
+        "code": "MU",
+        "name": "Muzaffarpur"
+      },
+      {
+        "code": "PU",
+        "name": "Purnia"
+      }
+    ],
+    "CG": [
+      {
+        "code": "RA",
+        "name": "Raipur"
+      },
+      {
+        "code": "BI",
+        "name": "Bilaspur"
+      },
+      {
+        "code": "DU",
+        "name": "Durg"
+      },
+      {
+        "code": "KO",
+        "name": "Korba"
+      }
+    ],
+    "GA": [
+      {
+        "code": "PA",
+        "name": "Panaji"
+      },
+      {
+        "code": "MA",
+        "name": "Margao"
+      }
+    ],
+    "GJ": [
+      {
+        "code": "AH",
+        "name": "Ahmedabad"
+      },
+      {
+        "code": "SU",
+        "name": "Surat"
+      },
+      {
+        "code": "VA",
+        "name": "Vadodara"
+      },
+      {
+        "code": "RA",
+        "name": "Rajkot"
+      },
+      {
+        "code": "BH",
+        "name": "Bhavnagar"
+      }
+    ],
+    "HR": [
+      {
+        "code": "GU",
+        "name": "Gurugram"
+      },
+      {
+        "code": "FA",
+        "name": "Faridabad"
+      },
+      {
+        "code": "HI",
+        "name": "Hisar"
+      },
+      {
+        "code": "RO",
+        "name": "Rohtak"
+      }
+    ],
+    "HP": [
+      {
+        "code": "SH",
+        "name": "Shimla"
+      },
+      {
+        "code": "DH",
+        "name": "Dharamshala"
+      }
+    ],
+    "JH": [
+      {
+        "code": "RA",
+        "name": "Ranchi"
+      },
+      {
+        "code": "JA",
+        "name": "Jamshedpur"
+      },
+      {
+        "code": "DH",
+        "name": "Dhanbad"
+      }
+    ],
+    "KA": [
+      {
+        "code": "BA",
+        "name": "Bangalore"
+      },
+      {
+        "code": "MY",
+        "name": "Mysore"
+      },
+      {
+        "code": "HU",
+        "name": "Hubli"
+      },
+      {
+        "code": "MA",
+        "name": "Mangalore"
+      }
+    ],
+    "KL": [
+      {
+        "code": "KN",
+        "name": "Kochin"
+      },
+      {
+        "code": "TR",
+        "name": "Trivandrum"
+      },
+      {
+        "code": "KZ",
+        "name": "Kozhikode"
+      },
+      {
+        "code": "TH",
+        "name": "Thrissur"
+      },
+      {
+        "code": "KT",
+        "name": "Kottayam"
+      },
+      {
+        "code": "AL",
+        "name": "Alappuzha"
+      }
+    ],
+    "MP": [
+      {
+        "code": "BH",
+        "name": "Bhopal"
+      },
+      {
+        "code": "IN",
+        "name": "Indore"
+      },
+      {
+        "code": "GW",
+        "name": "Gwalior"
+      },
+      {
+        "code": "JB",
+        "name": "Jabalpur"
+      }
+    ],
+    "MH": [
+      {
+        "code": "MU",
+        "name": "Mumbai"
+      },
+      {
+        "code": "PU",
+        "name": "Pune"
+      },
+      {
+        "code": "NA",
+        "name": "Nagpur"
+      },
+      {
+        "code": "TH",
+        "name": "Thane"
+      },
+      {
+        "code": "AU",
+        "name": "Aurangabad"
+      },
+      {
+        "code": "NA",
+        "name": "Nashik"
+      },
+      {
+        "code": "KO",
+        "name": "Kolhapur"
+      }
+    ],
+    "MN": [
+      {
+        "code": "IM",
+        "name": "Imphal"
+      },
+      {
+        "code": "CH",
+        "name": "Churachandpur"
+      }
+    ],
+    "ML": [
+      {
+        "code": "SH",
+        "name": "Shillong"
+      },
+      {
+        "code": "TU",
+        "name": "Tura"
+      }
+    ],
+    "MZ": [
+      {
+        "code": "AI",
+        "name": "Aizawl"
+      },
+      {
+        "code": "LU",
+        "name": "Lunglei"
+      }
+    ],
+    "NL": [
+      {
+        "code": "KO",
+        "name": "Kohima"
+      },
+      {
+        "code": "DI",
+        "name": "Dimapur"
+      }
+    ],
+    "OR": [
+      {
+        "code": "BH",
+        "name": "Bhubaneswar"
+      },
+      {
+        "code": "CU",
+        "name": "Cuttack"
+      },
+      {
+        "code": "SA",
+        "name": "Sambalpur"
+      }
+    ],
+    "PB": [
+      {
+        "code": "CH",
+        "name": "Chandigarh"
+      },
+      {
+        "code": "AM",
+        "name": "Amritsar"
+      },
+      {
+        "code": "LU",
+        "name": "Ludhiana"
+      },
+      {
+        "code": "JA",
+        "name": "Jalandhar"
+      }
+    ],
+    "RJ": [
+      {
+        "code": "JA",
+        "name": "Jaipur"
+      },
+      {
+        "code": "JO",
+        "name": "Jodhpur"
+      },
+      {
+        "code": "UD",
+        "name": "Udaipur"
+      },
+      {
+        "code": "KO",
+        "name": "Kota"
+      }
+    ],
+    "SK": [
+      {
+        "code": "GA",
+        "name": "Gangtok"
+      },
+      {
+        "code": "NA",
+        "name": "Namchi"
+      }
+    ],
+    "TN": [
+      {
+        "code": "CN",
+        "name": "Chennai"
+      },
+      {
+        "code": "CO",
+        "name": "Coimbatore"
+      },
+      {
+        "code": "MA",
+        "name": "Madurai"
+      },
+      {
+        "code": "TR",
+        "name": "Trichy"
+      },
+      {
+        "code": "SA",
+        "name": "Salem"
+      },
+      {
+        "code": "ER",
+        "name": "Erode"
+      }
+    ],
+    "TG": [
+      {
+        "code": "HY",
+        "name": "Hyderabad"
+      },
+      {
+        "code": "WA",
+        "name": "Warangal"
+      }
+    ],
+    "TR": [
+      {
+        "code": "AG",
+        "name": "Agartala"
+      },
+      {
+        "code": "DH",
+        "name": "Dharmanagar"
+      }
+    ],
+    "UP": [
+      {
+        "code": "LU",
+        "name": "Lucknow"
+      },
+      {
+        "code": "KA",
+        "name": "Kanpur"
+      },
+      {
+        "code": "AG",
+        "name": "Agra"
+      },
+      {
+        "code": "ME",
+        "name": "Meerut"
+      }
+    ],
+    "UK": [
+      {
+        "code": "DE",
+        "name": "Dehradun"
+      },
+      {
+        "code": "HA",
+        "name": "Haridwar"
+      }
+    ],
+    "WB": [
+      {
+        "code": "KO",
+        "name": "Kolkata"
+      },
+      {
+        "code": "DA",
+        "name": "Darjeeling"
+      },
+      {
+        "code": "HA",
+        "name": "Howrah"
+      }
+    ],
+    "ENG": [
+      {
+        "code": "LO",
+        "name": "London"
+      },
+      {
+        "code": "MA",
+        "name": "Manchester"
+      },
+      {
+        "code": "BI",
+        "name": "Birmingham"
+      },
+      {
+        "code": "LI",
+        "name": "Liverpool"
+      },
+      {
+        "code": "LE",
+        "name": "Leeds"
+      }
+    ],
+    "ON": [
+      {
+        "code": "TO",
+        "name": "Toronto"
+      },
+      {
+        "code": "OT",
+        "name": "Ottawa"
+      },
+      {
+        "code": "MI",
+        "name": "Mississauga"
+      },
+      {
+        "code": "HA",
+        "name": "Hamilton"
+      },
+      {
+        "code": "LO",
+        "name": "London"
+      }
+    ],
+    "NH": [
+      {
+        "code": "AM",
+        "name": "Amsterdam"
+      },
+      {
+        "code": "HA",
+        "name": "Haarlem"
+      }
+    ],
+    "FL": [
+      {
+        "code": "AN",
+        "name": "Antwerp"
+      },
+      {
+        "code": "GH",
+        "name": "Ghent"
+      }
+    ],
+    "OS": [
+      {
+        "code": "OS",
+        "name": "Oslo"
+      },
+      {
+        "code": "BE",
+        "name": "Bergen"
+      }
+    ]
+  }
+}
